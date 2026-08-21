@@ -3,7 +3,7 @@ const express = require('express');
 const fs = require('fs');
 
 // CONFIGURACOES - TROQUE ESTES VALORES
-const TOKEN = 'MTU0MDIyNzk5NjgxMDQ4MTcwNA.Gv545o.aBuJ0NP4f4GWwfezYJANTDw7RE9DJRuUKOm4kE';
+const TOKEN = 'Sua tentativa de roubo de token não irá funcionar (●'◡'●) ';
 const ADMIN_ROLE_ID = '1540228331331649636';
 const PORT = 3000;
 
